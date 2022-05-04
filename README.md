@@ -2,6 +2,8 @@
 
 ---
 
+Some Markdown text with <span style="color:blue">some *blue* text</span>
+
 1. Use `id` ang group `id`.
 ```bash
 id -u && id -g
