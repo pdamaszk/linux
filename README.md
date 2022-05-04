@@ -23,7 +23,7 @@ git add hello.txt
 git status
 git log --oneline
  ```
-    > config
+> config
 
  ```bash
  git revert f3f7fcf
