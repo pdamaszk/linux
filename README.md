@@ -2,7 +2,7 @@
 
 ---
 https://github.com/pdamaszk/Linux.git
-1. Use `id` ang group `id`.
+1. #Use `id` ang group `id`.
  ```bash
 id -u && id -g
  ```
